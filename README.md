@@ -1,19 +1,19 @@
-Proyecto: Front-end Básico
+# Proyecto: Front-end Básico
 
 Este es un proyecto web minimalista sobre conceptos básicos de desarrollo Front-end, utilizando HTML, CSS y SASS. El diseño tiene una estética oscura con efectos visuales atractivos.
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 
-HTML: Para la estructura de la página.
+- **HTML**: Para la estructura de la página.
+- **CSS (SASS)**: Para los estilos y modularidad de los componentes.
 
-CSS (SASS): Para los estilos y modularidad de los componentes.
+## Características principales
 
-Características principales
+- **Diseño minimalista y oscuro**
+- **Efectos de hover en imágenes y enlaces**
+- **Animaciones sutiles para una experiencia más fluida**
+- **Uso de variables**
 
-Diseño minimalista y oscuro
 
-Efectos de hover en imágenes y enlaces
-
-Uso de variables
-
-Tipografía moderna
+## Captura de pantalla
+![Captura de pantalla](./img/Captura.png)
