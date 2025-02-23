@@ -1,0 +1,22 @@
+header, footer {
+    background-color: $secondary-color;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    color: $text-color;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    &:hover {
+        color: $accent-color;
+    }
+}
